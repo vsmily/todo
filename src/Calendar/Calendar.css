@@ -1,0 +1,34 @@
+
+.day{
+    background-color: whitesmoke;
+    border: 2px ridge rgb(114, 216, 250);
+    margin: 0.5%;
+    border-radius: 10%;
+    color: black;
+    width: 9%;
+    height: 5%;
+    display: inline-block;
+    font-size: 1.2em;    
+    text-align: center;
+    align-items: center;
+    padding: 0.5em;
+}
+.dayEmpty{
+    background-color: whitesmoke;
+    border: 2px ridge rgb(114, 216, 250);
+    margin: 0.5%;
+    border-radius: 10%;
+    color: whitesmoke;
+    width: 9%;
+    height: 5%;
+    display: inline-block;
+    font-size: 1.2em;
+    padding: 0.5em;    
+}
+
+.pending{
+    text-decoration: solid;
+    color: rgb(32,32,32);
+    background-color: rgb(64,255,0);
+    border: 2px ridge red;
+}

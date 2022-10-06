@@ -1,0 +1,15 @@
+.sep{
+    margin: 10px;
+    display: block;
+}
+
+.form{
+
+    display: inline-block;
+    background-color: rgb(114, 216, 250);
+    border-radius: 10%;
+    border: 2px solid black;
+    width:100%;
+    height: 50%;
+  
+}

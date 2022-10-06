@@ -1,0 +1,16 @@
+*{
+    margin: 2px;
+    align-items: center;
+    align-content: center;
+}
+
+input{
+    border-radius: 10%;
+}
+
+select{
+    border-radius: 10%;
+}
+#lblYear{
+    margin-left: 20px;
+}
